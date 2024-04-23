@@ -4,7 +4,7 @@ This repository is a template for all my GitHub repos created after 21/04/2024. 
 
 > [!WARNING]  
 > As of 23/04/2024, all repositories created using a template come with a weird label that's impossible to turn off.
-> ![image](https://github.com/Khenziii/another-test-repo/assets/126098761/148c19eb-f339-4863-b112-4879f83ce4c7)
+> ![image](https://github.com/Khenziii/repo-template/assets/126098761/895f0aed-c8c5-4f5a-9598-997f0e63ced8)
 >
 > There is already a [discussion](https://github.com/orgs/community/discussions/15900) regarding this topic, so GitHub should roll out an option to turn off the label pretty quickly.
 >
